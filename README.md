@@ -8,7 +8,6 @@ The dependencies can be installed via the following commands:
 To install BeautifulSoup:
 ```bash
 $ pip install bs4
-$ cd sotawhat
 ```
 To install youtube-dl
 
